@@ -8,3 +8,6 @@ contract apa is ERC20 {
         _mint(msg.sender, 100 * 10 ** decimals());
     }
 }
+
+
+2_hjk&2nd
